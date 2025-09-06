@@ -1,0 +1,210 @@
+{
+  "classes": {
+    "equities": {
+      "VOO": 0.035626,
+      "QQQ": 0.039668,
+      "VGK": 0.03337,
+      "EZU": 0.036096,
+      "AAPL": 0.032148,
+      "MSFT": 0.037365,
+      "NVDA": 0.040966,
+      "GOOGL": 0.040966,
+      "AMZN": 0.035673,
+      "ASML": 0.028952,
+      "LVMH": 0.014147,
+      "SAP": 0.02632,
+      "SOL": 0.0329,
+      "ADA": 0.0329,
+      "DOGE": 0.0329
+    },
+    "crypto": {
+      "BTC": 0.025,
+      "ETH": 0.025
+    },
+    "fixed_income": {
+      "IEF": 0.07,
+      "TLT": 0.0,
+      "SHY": 0.07,
+      "LQD": 0.07,
+      "IEAC": 0.07,
+      "IEGA": 0.07
+    },
+    "reits": {
+      "VNQ": 0.02,
+      "IPRP": 0.02,
+      "PLD": 0.02,
+      "O": 0.02,
+      "SPG": 0.02
+    }
+  },
+  "orders": [
+    {
+      "instrument_id": "VOO",
+      "action": "INCREASE",
+      "target_weight": 0.035626,
+      "max_notional": null
+    },
+    {
+      "instrument_id": "QQQ",
+      "action": "INCREASE",
+      "target_weight": 0.039668,
+      "max_notional": null
+    },
+    {
+      "instrument_id": "VGK",
+      "action": "INCREASE",
+      "target_weight": 0.03337,
+      "max_notional": null
+    },
+    {
+      "instrument_id": "EZU",
+      "action": "INCREASE",
+      "target_weight": 0.036096,
+      "max_notional": null
+    },
+    {
+      "instrument_id": "AAPL",
+      "action": "INCREASE",
+      "target_weight": 0.032148,
+      "max_notional": null
+    },
+    {
+      "instrument_id": "MSFT",
+      "action": "INCREASE",
+      "target_weight": 0.037365,
+      "max_notional": null
+    },
+    {
+      "instrument_id": "NVDA",
+      "action": "INCREASE",
+      "target_weight": 0.040966,
+      "max_notional": null
+    },
+    {
+      "instrument_id": "GOOGL",
+      "action": "INCREASE",
+      "target_weight": 0.040966,
+      "max_notional": null
+    },
+    {
+      "instrument_id": "AMZN",
+      "action": "INCREASE",
+      "target_weight": 0.035673,
+      "max_notional": null
+    },
+    {
+      "instrument_id": "ASML",
+      "action": "INCREASE",
+      "target_weight": 0.028952,
+      "max_notional": null
+    },
+    {
+      "instrument_id": "LVMH",
+      "action": "INCREASE",
+      "target_weight": 0.014147,
+      "max_notional": null
+    },
+    {
+      "instrument_id": "SAP",
+      "action": "INCREASE",
+      "target_weight": 0.02632,
+      "max_notional": null
+    },
+    {
+      "instrument_id": "SOL",
+      "action": "INCREASE",
+      "target_weight": 0.0329,
+      "max_notional": null
+    },
+    {
+      "instrument_id": "ADA",
+      "action": "INCREASE",
+      "target_weight": 0.0329,
+      "max_notional": null
+    },
+    {
+      "instrument_id": "DOGE",
+      "action": "INCREASE",
+      "target_weight": 0.0329,
+      "max_notional": null
+    },
+    {
+      "instrument_id": "BTC",
+      "action": "INCREASE",
+      "target_weight": 0.025,
+      "max_notional": null
+    },
+    {
+      "instrument_id": "ETH",
+      "action": "INCREASE",
+      "target_weight": 0.025,
+      "max_notional": null
+    },
+    {
+      "instrument_id": "IEF",
+      "action": "INCREASE",
+      "target_weight": 0.07,
+      "max_notional": null
+    },
+    {
+      "instrument_id": "TLT",
+      "action": "HOLD",
+      "target_weight": 0.0,
+      "max_notional": null
+    },
+    {
+      "instrument_id": "SHY",
+      "action": "INCREASE",
+      "target_weight": 0.07,
+      "max_notional": null
+    },
+    {
+      "instrument_id": "LQD",
+      "action": "INCREASE",
+      "target_weight": 0.07,
+      "max_notional": null
+    },
+    {
+      "instrument_id": "IEAC",
+      "action": "INCREASE",
+      "target_weight": 0.07,
+      "max_notional": null
+    },
+    {
+      "instrument_id": "IEGA",
+      "action": "INCREASE",
+      "target_weight": 0.07,
+      "max_notional": null
+    },
+    {
+      "instrument_id": "VNQ",
+      "action": "INCREASE",
+      "target_weight": 0.02,
+      "max_notional": null
+    },
+    {
+      "instrument_id": "IPRP",
+      "action": "INCREASE",
+      "target_weight": 0.02,
+      "max_notional": null
+    },
+    {
+      "instrument_id": "PLD",
+      "action": "INCREASE",
+      "target_weight": 0.02,
+      "max_notional": null
+    },
+    {
+      "instrument_id": "O",
+      "action": "INCREASE",
+      "target_weight": 0.02,
+      "max_notional": null
+    },
+    {
+      "instrument_id": "SPG",
+      "action": "INCREASE",
+      "target_weight": 0.02,
+      "max_notional": null
+    }
+  ]
+}

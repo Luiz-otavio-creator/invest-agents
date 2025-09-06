@@ -1,0 +1,98 @@
+[
+  {
+    "instrument_id": "VOO",
+    "side": "BUY",
+    "confidence": 0.758,
+    "rationale": "mom12m=19.80%; PE=n/a; ROE=n/a; PM=n/a; OM=n/a; RevG=n/a; EPSG=n/a; Debt/EBITDA=n/a; ETFBoost=True",
+    "ttl_days": 14,
+    "collected_at": "2025-09-06T00:44:47.115393"
+  },
+  {
+    "instrument_id": "QQQ",
+    "side": "BUY",
+    "confidence": 0.844,
+    "rationale": "mom12m=28.39%; PE=n/a; ROE=n/a; PM=n/a; OM=n/a; RevG=n/a; EPSG=n/a; Debt/EBITDA=n/a; ETFBoost=True",
+    "ttl_days": 14,
+    "collected_at": "2025-09-06T00:44:47.227740"
+  },
+  {
+    "instrument_id": "VGK",
+    "side": "BUY",
+    "confidence": 0.71,
+    "rationale": "mom12m=14.95%; PE=n/a; ROE=n/a; PM=n/a; OM=n/a; RevG=n/a; EPSG=n/a; Debt/EBITDA=n/a; ETFBoost=True",
+    "ttl_days": 14,
+    "collected_at": "2025-09-06T00:44:47.319255"
+  },
+  {
+    "instrument_id": "EZU",
+    "side": "BUY",
+    "confidence": 0.768,
+    "rationale": "mom12m=20.82%; PE=n/a; ROE=n/a; PM=n/a; OM=n/a; RevG=n/a; EPSG=n/a; Debt/EBITDA=n/a; ETFBoost=True",
+    "ttl_days": 14,
+    "collected_at": "2025-09-06T00:44:47.432085"
+  },
+  {
+    "instrument_id": "AAPL",
+    "side": "BUY",
+    "confidence": 0.684,
+    "rationale": "mom12m=8.55%; PE=36.22; ROE=149.80%; PM=24.30%; OM=30.00%; RevG=n/a; EPSG=n/a; Debt/EBITDA=n/a; ETFBoost=False",
+    "ttl_days": 14,
+    "collected_at": "2025-09-06T00:44:47.561862"
+  },
+  {
+    "instrument_id": "MSFT",
+    "side": "BUY",
+    "confidence": 0.795,
+    "rationale": "mom12m=23.23%; PE=37.02; ROE=33.30%; PM=36.10%; OM=44.90%; RevG=n/a; EPSG=n/a; Debt/EBITDA=n/a; ETFBoost=False",
+    "ttl_days": 14,
+    "collected_at": "2025-09-06T00:44:47.663488"
+  },
+  {
+    "instrument_id": "NVDA",
+    "side": "BUY",
+    "confidence": 1.0,
+    "rationale": "mom12m=62.42%; PE=48.49; ROE=109.40%; PM=52.40%; OM=60.80%; RevG=n/a; EPSG=n/a; Debt/EBITDA=n/a; ETFBoost=False",
+    "ttl_days": 14,
+    "collected_at": "2025-09-06T00:44:47.775789"
+  },
+  {
+    "instrument_id": "GOOGL",
+    "side": "BUY",
+    "confidence": 1.0,
+    "rationale": "mom12m=55.71%; PE=24.74; ROE=34.80%; PM=31.10%; OM=32.40%; RevG=n/a; EPSG=n/a; Debt/EBITDA=n/a; ETFBoost=False",
+    "ttl_days": 14,
+    "collected_at": "2025-09-06T00:44:47.844917"
+  },
+  {
+    "instrument_id": "AMZN",
+    "side": "BUY",
+    "confidence": 0.759,
+    "rationale": "mom12m=35.56%; PE=34.51; ROE=24.80%; PM=10.50%; OM=11.40%; RevG=n/a; EPSG=n/a; Debt/EBITDA=n/a; ETFBoost=False",
+    "ttl_days": 14,
+    "collected_at": "2025-09-06T00:44:47.926921"
+  },
+  {
+    "instrument_id": "ASML",
+    "side": "BUY",
+    "confidence": 0.616,
+    "rationale": "mom12m=-8.31%; PE=26.70; ROE=58.30%; PM=29.30%; OM=34.60%; RevG=n/a; EPSG=n/a; Debt/EBITDA=n/a; ETFBoost=False",
+    "ttl_days": 14,
+    "collected_at": "2025-09-06T00:44:48.041010"
+  },
+  {
+    "instrument_id": "LVMH",
+    "side": "HOLD",
+    "confidence": 0.301,
+    "rationale": "mom12m=-19.86%; PE=n/a; ROE=n/a; PM=n/a; OM=n/a; RevG=n/a; EPSG=n/a; Debt/EBITDA=n/a; ETFBoost=False",
+    "ttl_days": 14,
+    "collected_at": "2025-09-06T00:44:48.142828"
+  },
+  {
+    "instrument_id": "SAP",
+    "side": "BUY",
+    "confidence": 0.56,
+    "rationale": "mom12m=19.23%; PE=41.65; ROE=15.80%; PM=18.20%; OM=28.50%; RevG=n/a; EPSG=n/a; Debt/EBITDA=n/a; ETFBoost=False",
+    "ttl_days": 14,
+    "collected_at": "2025-09-06T00:44:48.257752"
+  }
+]

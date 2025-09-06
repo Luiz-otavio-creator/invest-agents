@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "OrderPlan",
+  "type": "object",
+  "properties": {
+    "instrument_id": {
+      "type": "string"
+    },
+    "action": {
+      "type": "string",
+      "enum": [
+        "INCREASE",
+        "DECREASE",
+        "OPEN",
+        "CLOSE",
+        "HOLD"
+      ]
+    },
+    "target_weight": {
+      "type": "number"
+    },
+    "max_notional": {
+      "type": "number"
+    }
+  },
+  "required": [
+    "instrument_id",
+    "action"
+  ]
+}

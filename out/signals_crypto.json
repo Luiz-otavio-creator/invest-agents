@@ -1,0 +1,47 @@
+[
+  {
+    "instrument_id": "BTC",
+    "side": "BUY",
+    "confidence": 0.7,
+    "rationale": "MA50>MA200=OK; ATR14%=1.84%",
+    "ttl_days": 7,
+    "price": 110813.0,
+    "collected_at": "2025-09-06T00:45:01.911138"
+  },
+  {
+    "instrument_id": "ETH",
+    "side": "BUY",
+    "confidence": 0.7,
+    "rationale": "MA50>MA200=OK; ATR14%=1.54%",
+    "ttl_days": 7,
+    "price": 2521.996327,
+    "collected_at": "2025-09-06T00:45:23.715881"
+  },
+  {
+    "instrument_id": "SOL",
+    "side": "BUY",
+    "confidence": 0.7,
+    "rationale": "MA50>MA200=OK; ATR14%=1.72%",
+    "ttl_days": 7,
+    "price": 144.278242,
+    "collected_at": "2025-09-06T00:45:44.062583"
+  },
+  {
+    "instrument_id": "ADA",
+    "side": "BUY",
+    "confidence": 0.7,
+    "rationale": "MA50>MA200=OK; ATR14%=1.21%",
+    "ttl_days": 7,
+    "price": 0.401588,
+    "collected_at": "2025-09-06T00:46:06.325814"
+  },
+  {
+    "instrument_id": "DOGE",
+    "side": "BUY",
+    "confidence": 0.7,
+    "rationale": "MA50>MA200=OK; ATR14%=1.44%",
+    "ttl_days": 7,
+    "price": 0.098552,
+    "collected_at": "2025-09-06T00:46:26.827197"
+  }
+]

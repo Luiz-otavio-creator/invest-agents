@@ -1,0 +1,181 @@
+{"order_id": "622f4b39-c70b-4ffc-9598-0e0c99067dc0", "instrument_id": "AAPL", "status": "FILLED", "avg_fill": 230.1, "qty": 19.591482, "fees": 0.0}
+{"order_id": "6e1982b9-5024-40bf-972e-3a6b998e904e", "instrument_id": "PETR4", "status": "FILLED", "avg_fill": 9.8, "qty": 460.0, "fees": 0.0}
+{"order_id": "b8ecede2-53a9-4741-a741-8c6be11f6f50", "instrument_id": "NVDA", "status": "FILLED", "avg_fill": 122.9, "qty": 36.680228, "fees": 0.0}
+{"order_id": "d93795fe-5162-44d6-9a7c-06b663152007", "instrument_id": "MSFT", "status": "FILLED", "avg_fill": 415.3, "qty": 10.854804, "fees": 0.0}
+{"order_id": "0139c368-5d96-475b-b267-6013bd5e9569", "instrument_id": "GOOGL", "status": "FILLED", "avg_fill": 175.1, "qty": 25.745288, "fees": 0.0}
+{"order_id": "044785c1-127d-4ec2-8b45-dd3c7d61e78e", "instrument_id": "XOM", "status": "FILLED", "avg_fill": 115.7, "qty": 38.962835, "fees": 0.0}
+{"order_id": "15476125-f209-4619-a67c-db9b711bf555", "instrument_id": "JNJ", "status": "FILLED", "avg_fill": 160.2, "qty": 22.589263, "fees": 0.0}
+{"order_id": "ca2541e6-809b-419c-8404-1f939e7f5d91", "instrument_id": "VALE3", "status": "FILLED", "avg_fill": 12.3, "qty": 229.764228, "fees": 0.0}
+{"order_id": "997c15fc-6e24-4455-a625-2125cd6dbc36", "instrument_id": "BABA", "status": "FILLED", "avg_fill": 75.5, "qty": 21.911258, "fees": 0.0}
+{"order_id": "3d068b44-8feb-49df-9673-58484d975961", "instrument_id": "AMZN", "status": "FILLED", "avg_fill": 190.75, "qty": 0.0, "fees": 0.0}
+{"order_id": "7d035a6c-4877-49ba-887d-d3b66a8f094e", "instrument_id": "MXRF11", "status": "FILLED", "avg_fill": 10.4, "qty": 433.461538, "fees": 0.0}
+{"order_id": "09f2d94d-85a3-4ee7-83a3-7c07229a8734", "instrument_id": "HGLG11", "status": "FILLED", "avg_fill": 168.0, "qty": 2.05119, "fees": 0.0}
+{"order_id": "35dbd86f-134f-47ae-b9d6-f2be71c0dbb2", "instrument_id": "VISC11", "status": "FILLED", "avg_fill": 111.3, "qty": 0.0, "fees": 0.0}
+{"order_id": "61956eb2-7f4f-443f-8102-d966bd6ecab3", "instrument_id": "KNRI11", "status": "FILLED", "avg_fill": 148.5, "qty": 0.0, "fees": 0.0}
+{"order_id": "0104ef26-9b10-4221-a301-3fb838cd93ff", "instrument_id": "HGBS11", "status": "FILLED", "avg_fill": 240.0, "qty": 0.0, "fees": 0.0}
+{"order_id": "cee20283-082b-408f-b361-c2730bcb0e84", "instrument_id": "BTC", "status": "FILLED", "avg_fill": 65000, "qty": 0.030769, "fees": 0.0}
+{"order_id": "c0ee8016-9f91-481c-b1d8-6be0629c1c7e", "instrument_id": "ETH", "status": "FILLED", "avg_fill": 3500, "qty": 0.571429, "fees": 0.0}
+{"order_id": "2ce04d03-992c-4f9e-8bde-99d4e627cfdd", "instrument_id": "SOL", "status": "FILLED", "avg_fill": 160, "qty": 12.5, "fees": 0.0}
+{"order_id": "7b41ea69-4646-4bae-8d02-1eb9e4bbff50", "instrument_id": "ADA", "status": "FILLED", "avg_fill": 0.42, "qty": 4761.904762, "fees": 0.0}
+{"order_id": "744e069b-4b65-4909-adb1-7c5871b27ab8", "instrument_id": "DOGE", "status": "FILLED", "avg_fill": 0.15, "qty": 13333.333333, "fees": 0.0}
+{"order_id": "ba637048-5d02-48af-a813-648a7dc070d0", "instrument_id": "DEBENTURE_X", "status": "FILLED", "avg_fill": 1000.0, "qty": 7.0, "fees": 0.0}
+{"order_id": "89ec2bde-0413-40b3-9c13-74299d87f264", "instrument_id": "CDB_BANCO_Y", "status": "FILLED", "avg_fill": 1000.0, "qty": 7.0, "fees": 0.0}
+{"order_id": "1a495b53-1e37-4dc5-a9a2-d7acc988f9c7", "instrument_id": "TESOURO_PREFIXADO_2028", "status": "FILLED", "avg_fill": 950.0, "qty": 7.368421, "fees": 0.0}
+{"order_id": "a6d08b6f-56f8-4af5-89b1-667e1ad30a1b", "instrument_id": "TESOURO_IPCA_2035", "status": "FILLED", "avg_fill": 1000.0, "qty": 7.0, "fees": 0.0}
+{"order_id": "56169f03-a836-4cf6-b98e-f392076c3b7e", "instrument_id": "BOND_US10Y", "status": "FILLED", "avg_fill": 100.0, "qty": 70.0, "fees": 0.0}
+{"order_id": "293035af-9f8c-4678-a607-b06e58526988", "instrument_id": "AAPL", "status": "FILLED", "avg_fill": 230.1, "qty": 36.244202, "fees": 0.0}
+{"order_id": "b39a4979-1bb1-4d8b-b004-e95ff9895c86", "instrument_id": "PETR4", "status": "FILLED", "avg_fill": 9.8, "qty": 850.99908, "fees": 0.0}
+{"order_id": "8f352284-345f-432c-8c91-9d2def6e1242", "instrument_id": "NVDA", "status": "FILLED", "avg_fill": 122.9, "qty": 67.858348, "fees": 0.0}
+{"order_id": "bef7479e-52c2-4454-a1d8-2ce8a8ef62ec", "instrument_id": "MSFT", "status": "FILLED", "avg_fill": 415.3, "qty": 20.081365, "fees": 0.0}
+{"order_id": "d3d5acc6-ab7a-4ee7-9b69-bdc2ca8d5f6a", "instrument_id": "GOOGL", "status": "FILLED", "avg_fill": 175.1, "qty": 47.628732, "fees": 0.0}
+{"order_id": "8fc0d75d-351d-417e-90d7-01e3bf6467a1", "instrument_id": "XOM", "status": "FILLED", "avg_fill": 115.7, "qty": 72.081167, "fees": 0.0}
+{"order_id": "4d3cd5b5-e743-4e68-affb-bb9322b5a59d", "instrument_id": "JNJ", "status": "FILLED", "avg_fill": 160.2, "qty": 41.790092, "fees": 0.0}
+{"order_id": "3a4a6c3d-6c50-4936-b3e8-8ad39bf95671", "instrument_id": "VALE3", "status": "FILLED", "avg_fill": 12.3, "qty": 425.063362, "fees": 0.0}
+{"order_id": "bf3cbd92-cdea-46ee-b871-a463a444fbbf", "instrument_id": "BABA", "status": "FILLED", "avg_fill": 75.5, "qty": 40.535784, "fees": 0.0}
+{"order_id": "205a47d2-9d38-43e1-853f-e8a5bfe6a6b9", "instrument_id": "AMZN", "status": "FILLED", "avg_fill": 190.75, "qty": 0.0, "fees": 0.0}
+{"order_id": "8301c85a-ea6a-4b59-a81d-995cb15e0d60", "instrument_id": "MXRF11", "status": "FILLED", "avg_fill": 10.4, "qty": 801.902979, "fees": 0.0}
+{"order_id": "26f9e8df-fb27-4d72-a0ac-b9bcf74d036f", "instrument_id": "HGLG11", "status": "FILLED", "avg_fill": 168.0, "qty": 3.794698, "fees": 0.0}
+{"order_id": "9d509b35-b5f4-4735-9afd-b68df0f2b5a1", "instrument_id": "VISC11", "status": "FILLED", "avg_fill": 111.3, "qty": 0.0, "fees": 0.0}
+{"order_id": "cbe12517-b992-4408-a6b7-2aa6ad47f30a", "instrument_id": "KNRI11", "status": "FILLED", "avg_fill": 148.5, "qty": 0.0, "fees": 0.0}
+{"order_id": "d67bb100-855a-4fa8-9a65-2a0622561ef1", "instrument_id": "HGBS11", "status": "FILLED", "avg_fill": 240.0, "qty": 0.0, "fees": 0.0}
+{"order_id": "f1ba2976-c22f-4351-b618-749cf961fc13", "instrument_id": "BTC", "status": "FILLED", "avg_fill": 65000, "qty": 0.056923, "fees": 0.0}
+{"order_id": "5032b5f1-c2c6-4429-a571-758ef6700f1e", "instrument_id": "ETH", "status": "FILLED", "avg_fill": 3500, "qty": 1.057142, "fees": 0.0}
+{"order_id": "b02d3db9-e82c-42cd-bc45-f6da286b59c4", "instrument_id": "SOL", "status": "FILLED", "avg_fill": 160, "qty": 23.124975, "fees": 0.0}
+{"order_id": "f7edf766-b328-4890-8566-11b3154844c3", "instrument_id": "ADA", "status": "FILLED", "avg_fill": 0.42, "qty": 8809.514286, "fees": 0.0}
+{"order_id": "4b0a2efa-fd2b-48c0-be22-60b0479d613d", "instrument_id": "DOGE", "status": "FILLED", "avg_fill": 0.15, "qty": 24666.64, "fees": 0.0}
+{"order_id": "c4252090-c651-437e-a26f-18a9782a6472", "instrument_id": "DEBENTURE_X", "status": "FILLED", "avg_fill": 1000.0, "qty": 12.949986, "fees": 0.0}
+{"order_id": "029f41ca-d025-44c5-add2-11938ea12c08", "instrument_id": "CDB_BANCO_Y", "status": "FILLED", "avg_fill": 1000.0, "qty": 12.949986, "fees": 0.0}
+{"order_id": "670271d2-b2ca-4d59-bc6e-98e19ff9b11d", "instrument_id": "TESOURO_PREFIXADO_2028", "status": "FILLED", "avg_fill": 950.0, "qty": 13.631564, "fees": 0.0}
+{"order_id": "d828b768-1d95-4e0a-9cd9-45d6cb74ab0e", "instrument_id": "TESOURO_IPCA_2035", "status": "FILLED", "avg_fill": 1000.0, "qty": 12.949986, "fees": 0.0}
+{"order_id": "c8359e33-2172-4ee6-b1d6-0a89eadb86fe", "instrument_id": "BOND_US10Y", "status": "FILLED", "avg_fill": 100.0, "qty": 129.49986, "fees": 0.0}
+{"order_id": "b5217502-d201-4888-af07-9de42b5ca906", "instrument_id": "AAPL", "status": "FILLED", "avg_fill": 230.1, "qty": 18.916298, "fees": 0.0}
+{"order_id": "8a93850f-04d5-450d-a2ba-b933bdf282fe", "instrument_id": "PETR4", "status": "FILLED", "avg_fill": 9.8, "qty": 444.146951, "fees": 0.0}
+{"order_id": "88772066-10ac-4365-8e74-0ee87f08ce73", "instrument_id": "NVDA", "status": "FILLED", "avg_fill": 122.9, "qty": 35.416112, "fees": 0.0}
+{"order_id": "e2ac054b-5288-441c-91af-7c7ce9acd78a", "instrument_id": "MSFT", "status": "FILLED", "avg_fill": 415.3, "qty": 10.480713, "fees": 0.0}
+{"order_id": "2b5adb4a-6e9e-4905-95ae-49c8bdefe6e5", "instrument_id": "GOOGL", "status": "FILLED", "avg_fill": 175.1, "qty": 24.858025, "fees": 0.0}
+{"order_id": "01781015-e30c-4cf2-ab30-73437f8c7765", "instrument_id": "XOM", "status": "FILLED", "avg_fill": 115.7, "qty": 37.620053, "fees": 0.0}
+{"order_id": "f5fc6108-27db-40ac-812b-612d539edb2a", "instrument_id": "JNJ", "status": "FILLED", "avg_fill": 160.2, "qty": 32.805828, "fees": 0.0}
+{"order_id": "a9a39d7c-c5ca-469c-a3b0-00a44e5eeef3", "instrument_id": "VALE3", "status": "FILLED", "avg_fill": 12.3, "qty": 333.676143, "fees": 0.0}
+{"order_id": "fc3372c8-197f-4728-af11-5063c8dc0de6", "instrument_id": "BABA", "status": "FILLED", "avg_fill": 75.5, "qty": 31.821163, "fees": 0.0}
+{"order_id": "155168b3-ae25-4e5a-9eea-1a165e9d9032", "instrument_id": "BTC", "status": "FILLED", "avg_fill": 65000, "qty": 0.022231, "fees": 0.0}
+{"order_id": "456092e4-a70c-4a61-a887-6ffd12aaf38a", "instrument_id": "ETH", "status": "FILLED", "avg_fill": 3500, "qty": 0.412855, "fees": 0.0}
+{"order_id": "23f89c3a-ee87-443e-a064-778414c1854e", "instrument_id": "SOL", "status": "FILLED", "avg_fill": 160, "qty": 9.031208, "fees": 0.0}
+{"order_id": "d22e20aa-bfd5-458b-acdb-87dc10210ccc", "instrument_id": "ADA", "status": "FILLED", "avg_fill": 0.42, "qty": 3440.46, "fees": 0.0}
+{"order_id": "7fc3af38-1fc1-478f-9e6c-26ef3da01af3", "instrument_id": "DOGE", "status": "FILLED", "avg_fill": 0.15, "qty": 9633.288, "fees": 0.0}
+{"order_id": "e058631c-ad0c-46cb-9d35-04c22babd5c7", "instrument_id": "DEBENTURE_X", "status": "FILLED", "avg_fill": 1000.0, "qty": 5.057476, "fees": 0.0}
+{"order_id": "11f9e7bf-643d-403e-b8b5-36a68c473891", "instrument_id": "CDB_BANCO_Y", "status": "FILLED", "avg_fill": 1000.0, "qty": 5.057476, "fees": 0.0}
+{"order_id": "703fdb2f-5c65-41f7-8b96-c895f174f92d", "instrument_id": "TESOURO_PREFIXADO_2028", "status": "FILLED", "avg_fill": 950.0, "qty": 5.323659, "fees": 0.0}
+{"order_id": "99b83342-9dc7-42f8-afb8-74592696444a", "instrument_id": "TESOURO_IPCA_2035", "status": "FILLED", "avg_fill": 1000.0, "qty": 5.057476, "fees": 0.0}
+{"order_id": "ed53e05a-0ca7-4abc-9e6f-42ed5e13bf72", "instrument_id": "BOND_US10Y", "status": "FILLED", "avg_fill": 100.0, "qty": 50.574762, "fees": 0.0}
+{"order_id": "db5e3c1c-0837-4bd0-91e9-ac5abdb3c72e", "instrument_id": "MXRF11", "status": "FILLED", "avg_fill": 10.4, "qty": 1641.224825, "fees": 0.0}
+{"order_id": "0da6ecdb-ada9-4171-a2a6-a26524985b4d", "instrument_id": "HGLG11", "status": "FILLED", "avg_fill": 168.0, "qty": 74.648012, "fees": 0.0}
+{"order_id": "2a991439-d745-4736-89d3-28eb8e40ace0", "instrument_id": "PETR4", "status": "FILLED", "avg_fill": 100.0, "qty": -126.924311, "fees": 0.0}
+{"order_id": "d268177d-9a42-4a13-a8ab-ac37e8ecca78", "instrument_id": "XOM", "status": "FILLED", "avg_fill": 100.0, "qty": -126.924311, "fees": 0.0}
+{"order_id": "3714bb81-ba6f-4592-98a5-dbdeae7bad72", "instrument_id": "JNJ", "status": "FILLED", "avg_fill": 100.0, "qty": -119.502664, "fees": 0.0}
+{"order_id": "84d5a605-8fe7-4b30-b381-507df6949b5f", "instrument_id": "VALE3", "status": "FILLED", "avg_fill": 100.0, "qty": -93.324959, "fees": 0.0}
+{"order_id": "2b81a6ac-5f48-41d5-be33-ef1ca508f791", "instrument_id": "BABA", "status": "FILLED", "avg_fill": 100.0, "qty": -54.629495, "fees": 0.0}
+{"order_id": "0c1cadd2-3000-49b6-9b8e-4a072b5e757b", "instrument_id": "MXRF11", "status": "FILLED", "avg_fill": 100.0, "qty": -254.085292, "fees": 0.0}
+{"order_id": "faa74103-7eb0-4f84-a60f-187ffe49402b", "instrument_id": "HGLG11", "status": "FILLED", "avg_fill": 100.0, "qty": -131.783753, "fees": 0.0}
+{"order_id": "0273257c-46ca-461c-9045-319397b395f0", "instrument_id": "SOL", "status": "FILLED", "avg_fill": 100.0, "qty": -51.449892, "fees": 0.0}
+{"order_id": "54738d72-d3cc-4f06-9e33-347cde40ed1d", "instrument_id": "ADA", "status": "FILLED", "avg_fill": 100.0, "qty": -51.449892, "fees": 0.0}
+{"order_id": "30919b72-240e-4e6d-8512-8051ff639e22", "instrument_id": "DOGE", "status": "FILLED", "avg_fill": 100.0, "qty": -51.449892, "fees": 0.0}
+{"order_id": "8d6e6103-093d-44f2-89a4-e3f2232da205", "instrument_id": "DEBENTURE_X", "status": "FILLED", "avg_fill": 100.0, "qty": -180.074622, "fees": 0.0}
+{"order_id": "8c89b868-7e02-4ec9-8442-4039eb474fdc", "instrument_id": "CDB_BANCO_Y", "status": "FILLED", "avg_fill": 100.0, "qty": -180.074622, "fees": 0.0}
+{"order_id": "98c1d11f-76af-4a5d-8913-b7303e7a7b1c", "instrument_id": "TESOURO_PREFIXADO_2028", "status": "FILLED", "avg_fill": 100.0, "qty": -180.074622, "fees": 0.0}
+{"order_id": "5701f1f5-5de0-46d4-8977-19a7823caccf", "instrument_id": "TESOURO_IPCA_2035", "status": "FILLED", "avg_fill": 100.0, "qty": -180.074622, "fees": 0.0}
+{"order_id": "f1a9bf9f-89b7-4bfd-91b4-2b84f0d86bbf", "instrument_id": "BOND_US10Y", "status": "FILLED", "avg_fill": 100.0, "qty": -180.074622, "fees": 0.0}
+{"order_id": "11c19e94-f77a-47d7-b105-8cdde85b5d7d", "instrument_id": "VOO", "status": "FILLED", "avg_fill": 520.0, "qty": 39.57684, "fees": 0.0}
+{"order_id": "18dc6162-e5f8-45f9-be6b-fbb5ca7421c3", "instrument_id": "QQQ", "status": "FILLED", "avg_fill": 470.0, "qty": 38.313749, "fees": 0.0}
+{"order_id": "5bc768d7-72d1-4ea2-b94b-2b92e4f38a73", "instrument_id": "VGK", "status": "FILLED", "avg_fill": 70.0, "qty": 183.749614, "fees": 0.0}
+{"order_id": "1b722970-a688-4cac-b3ed-6d3d6f86b83d", "instrument_id": "EZU", "status": "FILLED", "avg_fill": 55.0, "qty": 233.863145, "fees": 0.0}
+{"order_id": "b7c9c412-9416-40af-9323-ebe73b29f8b2", "instrument_id": "AAPL", "status": "FILLED", "avg_fill": 230.1, "qty": 0.738991, "fees": 0.0}
+{"order_id": "3c8fce2f-c94a-4fa5-b0b0-5c9ed5e0adc6", "instrument_id": "MSFT", "status": "FILLED", "avg_fill": 415.3, "qty": 0.409444, "fees": 0.0}
+{"order_id": "77ddbf91-45f2-46cc-957c-311c5f31823b", "instrument_id": "NVDA", "status": "FILLED", "avg_fill": 122.9, "qty": -19.548029, "fees": 0.0}
+{"order_id": "b70813fd-8870-45af-8676-7b5e20e1295f", "instrument_id": "GOOGL", "status": "FILLED", "avg_fill": 175.1, "qty": -13.720461, "fees": 0.0}
+{"order_id": "ddcbe9b9-8d55-4e0a-b237-7574481f6b5b", "instrument_id": "AMZN", "status": "FILLED", "avg_fill": 190.75, "qty": 40.458631, "fees": 0.0}
+{"order_id": "2ed30226-80d8-449d-aca7-7e4b9dd39282", "instrument_id": "ASML", "status": "FILLED", "avg_fill": 1150.0, "qty": 4.473904, "fees": 0.0}
+{"order_id": "95723e38-1cae-4964-971f-803f89b0bcbd", "instrument_id": "LVMH", "status": "FILLED", "avg_fill": 730.0, "qty": 3.523965, "fees": 0.0}
+{"order_id": "06af8b3f-5046-4903-890e-8437207e311f", "instrument_id": "SAP", "status": "FILLED", "avg_fill": 200.0, "qty": 12.862473, "fees": 0.0}
+{"order_id": "474d823b-134c-40a0-aa37-09267f7cde71", "instrument_id": "IEF", "status": "FILLED", "avg_fill": 100.0, "qty": 205.799568, "fees": 0.0}
+{"order_id": "b0b94855-ac18-4c14-8a53-bb1a97def5b1", "instrument_id": "IEAC", "status": "FILLED", "avg_fill": 100.0, "qty": 180.074622, "fees": 0.0}
+{"order_id": "c9fb7329-7c8d-44bd-a94a-8dc7b61caee8", "instrument_id": "LQD", "status": "FILLED", "avg_fill": 100.0, "qty": 180.074622, "fees": 0.0}
+{"order_id": "f9c2d122-385f-4cb7-98b6-8177c2549c77", "instrument_id": "IEGA", "status": "FILLED", "avg_fill": 100.0, "qty": 128.62473, "fees": 0.0}
+{"order_id": "5fe1e983-67d0-4ba7-8fa0-b4da6fa3aec1", "instrument_id": "SHY", "status": "FILLED", "avg_fill": 100.0, "qty": 102.899784, "fees": 0.0}
+{"order_id": "ec0b0639-f94e-4cfc-9472-fbbd62eca81a", "instrument_id": "TLT", "status": "FILLED", "avg_fill": 100.0, "qty": 102.899784, "fees": 0.0}
+{"order_id": "ccddcec4-28ce-4e5a-a20f-cc458b441fa8", "instrument_id": "VNQ", "status": "FILLED", "avg_fill": 90.0, "qty": 171.49964, "fees": 0.0}
+{"order_id": "d33d6741-6760-4204-bc3f-5e652c29e74c", "instrument_id": "IPRP", "status": "FILLED", "avg_fill": 6.0, "qty": 857.4982, "fees": 0.0}
+{"order_id": "b2c6fff9-46c2-41b0-8434-4c29e78896fc", "instrument_id": "PLD", "status": "FILLED", "avg_fill": 120.0, "qty": 21.437455, "fees": 0.0}
+{"order_id": "9e05796b-12ad-4092-a498-bd61d4f65360", "instrument_id": "O", "status": "FILLED", "avg_fill": 55.0, "qty": 23.386315, "fees": 0.0}
+{"order_id": "971b05b2-1062-4ebe-8546-2458e866d767", "instrument_id": "SPG", "status": "FILLED", "avg_fill": 150.0, "qty": 8.574982, "fees": 0.0}
+{"order_id": "f9552c01-3b4f-44c0-8ad4-cc2213380f21", "instrument_id": "BTC", "status": "FILLED", "avg_fill": 65000, "qty": 0.039577, "fees": 0.0}
+{"order_id": "c3b6616a-92d3-41ab-a430-d64acc35c144", "instrument_id": "QQQ", "status": "FILLED", "avg_fill": 470.0, "qty": -19.048502, "fees": 0.0}
+{"order_id": "e8b2705c-e71d-4426-b829-5e076e07894a", "instrument_id": "VOO", "status": "FILLED", "avg_fill": 520.0, "qty": -22.216459, "fees": 0.0}
+{"order_id": "acdc8b2e-f9f4-444f-a0d9-93971960f258", "instrument_id": "VGK", "status": "FILLED", "avg_fill": 70.0, "qty": -59.446675, "fees": 0.0}
+{"order_id": "e5b4c02b-b528-4280-97de-64dca0e03af8", "instrument_id": "EZU", "status": "FILLED", "avg_fill": 55.0, "qty": -79.864264, "fees": 0.0}
+{"order_id": "12dc3ccd-5ab1-4dac-979b-fa9114965eb9", "instrument_id": "NVDA", "status": "FILLED", "avg_fill": 122.9, "qty": 0.833078, "fees": 0.0}
+{"order_id": "e393658b-63c1-4254-a884-22bbcc09843a", "instrument_id": "AAPL", "status": "FILLED", "avg_fill": 230.1, "qty": -10.734938, "fees": 0.0}
+{"order_id": "a1779cac-5ecc-4c69-ae87-262aadd327cc", "instrument_id": "ASML", "status": "FILLED", "avg_fill": 1150.0, "qty": 3.967234, "fees": 0.0}
+{"order_id": "69eb260f-cef1-416b-9e1c-23f644ec2876", "instrument_id": "GOOGL", "status": "FILLED", "avg_fill": 175.1, "qty": -4.02696, "fees": 0.0}
+{"order_id": "3e1d93ef-6568-45c2-8b36-4502f8f6bbc6", "instrument_id": "MSFT", "status": "FILLED", "avg_fill": 415.3, "qty": -8.383372, "fees": 0.0}
+{"order_id": "6026f22d-a4eb-4344-b0aa-3d6720de62d6", "instrument_id": "SAP", "status": "FILLED", "avg_fill": 200.0, "qty": 28.603567, "fees": 0.0}
+{"order_id": "af647214-f9ca-4762-9eb8-563a11d7d063", "instrument_id": "LVMH", "status": "FILLED", "avg_fill": 730.0, "qty": 5.434307, "fees": 0.0}
+{"order_id": "c186d6bd-d653-4566-8b0c-e227f312fca9", "instrument_id": "AMZN", "status": "FILLED", "avg_fill": 190.75, "qty": -8.813238, "fees": 0.0}
+{"order_id": "888f2d87-d8de-43fe-b027-ce11a3b124ad", "instrument_id": "SOL", "status": "FILLED", "avg_fill": 100.0, "qty": 90.410323, "fees": 0.0}
+{"order_id": "b5e03cae-314b-42a0-beca-448bf352ead5", "instrument_id": "ADA", "status": "FILLED", "avg_fill": 100.0, "qty": 49.623421, "fees": 0.0}
+{"order_id": "235d6e00-cb27-49f5-933c-1efc857143db", "instrument_id": "DOGE", "status": "FILLED", "avg_fill": 100.0, "qty": 90.410323, "fees": 0.0}
+{"order_id": "d9fb3e41-879e-49c4-af0a-4aeae03f19fb", "instrument_id": "BTC", "status": "FILLED", "avg_fill": 65000, "qty": -0.019788, "fees": 0.0}
+{"order_id": "9fa745ae-f87b-40b4-861c-faaf401b7ffa", "instrument_id": "ETH", "status": "FILLED", "avg_fill": 3500, "qty": 0.367499, "fees": 0.0}
+{"order_id": "d8c7e61d-88b2-4c71-9b14-4f6799761e92", "instrument_id": "IEF", "status": "FILLED", "avg_fill": 100.0, "qty": -25.724946, "fees": 0.0}
+{"order_id": "3673d0eb-9387-4881-83d2-a042227e2941", "instrument_id": "IEGA", "status": "FILLED", "avg_fill": 100.0, "qty": 25.727518, "fees": 0.0}
+{"order_id": "58600247-7faf-4553-ab88-0b3d37124a1b", "instrument_id": "TLT", "status": "FILLED", "avg_fill": 100.0, "qty": -102.899784, "fees": 0.0}
+{"order_id": "9a20f6af-b6b8-43ed-ab4a-e2ffcb590d92", "instrument_id": "VNQ", "status": "FILLED", "avg_fill": 90.0, "qty": -114.333093, "fees": 0.0}
+{"order_id": "e4aed58b-432a-4c1a-972b-768d341f8f28", "instrument_id": "SPG", "status": "FILLED", "avg_fill": 150.0, "qty": 25.724946, "fees": 0.0}
+{"order_id": "89e8669a-c74c-4d71-bfdb-7c518029276d", "instrument_id": "O", "status": "FILLED", "avg_fill": 55.0, "qty": 70.158944, "fees": 0.0}
+{"order_id": "9852d7c1-079e-479a-9af3-8d4b005e6f02", "instrument_id": "PLD", "status": "FILLED", "avg_fill": 120.0, "qty": 21.437455, "fees": 0.0}
+{"order_id": "1384b1fc-e1c3-4181-a6eb-92493db14e20", "instrument_id": "IEGA", "status": "FILLED", "avg_fill": 100.0, "qty": 25.722374, "fees": 0.0}
+{"order_id": "81492faf-5ae5-4cbd-994d-ac5504913bcd", "instrument_id": "SHY", "status": "FILLED", "avg_fill": 100.0, "qty": 77.174838, "fees": 0.0}
+{"order_id": "65b3d025-b91e-4387-8b6e-70bf60775873", "instrument_id": "AAPL", "status": "FILLED", "avg_fill": 232.139999, "qty": -21, "fees": 0.0, "timestamp": "2025-08-29T23:22:43.931910"}
+{"order_id": "63806749-a5cd-473e-af8e-4f652cf993da", "instrument_id": "MSFT", "status": "FILLED", "avg_fill": 506.690002, "qty": -1, "fees": 0.0, "timestamp": "2025-08-29T23:22:44.019197"}
+{"order_id": "dc4ea0d4-0516-4818-a5cb-d7a0cc6ccede", "instrument_id": "NVDA", "status": "FILLED", "avg_fill": 174.179993, "qty": 1, "fees": 0.0, "timestamp": "2025-08-29T23:22:44.091659"}
+{"order_id": "a1a0ad92-14f0-4fb8-a7e4-fc24ef6db211", "instrument_id": "GOOGL", "status": "FILLED", "avg_fill": 212.910004, "qty": 4, "fees": 0.0, "timestamp": "2025-08-29T23:22:44.159585"}
+{"order_id": "96090ab0-5d79-4bd4-b3a1-8fe4a23793ee", "instrument_id": "AMZN", "status": "FILLED", "avg_fill": 229.0, "qty": 16, "fees": 0.0, "timestamp": "2025-08-29T23:22:44.218283"}
+{"order_id": "4cea330c-31cd-4721-a19c-01478fec5d95", "instrument_id": "ASML", "status": "FILLED", "avg_fill": 636.599976, "qty": -11, "fees": 0.0, "timestamp": "2025-08-29T23:22:44.338815"}
+{"order_id": "2c604d80-86d3-44b9-b019-54dceb75b382", "instrument_id": "LVMH", "status": "FILLED", "avg_fill": 504.100006, "qty": -7, "fees": 0.0, "timestamp": "2025-08-29T23:22:44.432956"}
+{"order_id": "85850ab1-3705-4076-a405-d85f41008a55", "instrument_id": "SAP", "status": "FILLED", "avg_fill": 231.699997, "qty": -5, "fees": 0.0, "timestamp": "2025-08-29T23:22:44.536443"}
+{"order_id": "ac71699e-4ce4-45de-b719-37a11ce4322b", "instrument_id": "SOL", "status": "FILLED", "avg_fill": 1.82, "qty": 862.068358, "fees": 0.0, "timestamp": "2025-08-29T23:22:44.641503"}
+{"order_id": "93861540-efa5-4d81-b025-dd221a8510c8", "instrument_id": "ADA", "status": "FILLED", "avg_fill": 0.39, "qty": 14481.165756, "fees": 0.0, "timestamp": "2025-08-29T23:22:44.820426"}
+{"order_id": "e036114b-4a50-4e4a-8d93-c36416f3997b", "instrument_id": "DOGE", "status": "FILLED", "avg_fill": 0.1, "qty": 15689.644565, "fees": 0.0, "timestamp": "2025-08-29T23:22:45.679638"}
+{"order_id": "87ca9def-1791-4e34-9d20-fff729e9d901", "instrument_id": "VGK", "status": "FILLED", "avg_fill": 78.5, "qty": 18, "fees": 0.0, "timestamp": "2025-08-29T23:23:29.637352"}
+{"order_id": "5b8adc3f-98dd-4bcd-919a-fcd2af4bc881", "instrument_id": "EZU", "status": "FILLED", "avg_fill": 59.810001, "qty": 35, "fees": 0.0, "timestamp": "2025-08-29T23:23:29.735062"}
+{"order_id": "75ef27a9-9297-4f32-85ac-670306e9baab", "instrument_id": "VGK", "status": "FILLED", "avg_fill": 78.57, "qty": -19, "fees": 0.0, "timestamp": "2025-09-05T21:46:31+00:00"}
+{"order_id": "959b70e5-9672-4bc3-9810-c38a20a0bd03", "instrument_id": "EZU", "status": "FILLED", "avg_fill": 59.650002, "qty": -20, "fees": 0.0, "timestamp": "2025-09-05T21:46:31+00:00"}
+{"order_id": "8099f9f9-ebb6-4323-bcc5-14c9d7a3fda6", "instrument_id": "AAPL", "status": "FILLED", "avg_fill": 239.690002, "qty": 7, "fees": 0.0, "timestamp": "2025-09-05T21:46:32+00:00"}
+{"order_id": "f6600e96-94eb-472a-8ef8-c4ba107170f7", "instrument_id": "MSFT", "status": "FILLED", "avg_fill": 495.0, "qty": -1, "fees": 0.0, "timestamp": "2025-09-05T21:46:32+00:00"}
+{"order_id": "ce419dab-790b-4201-9572-90e146c76f3a", "instrument_id": "AMZN", "status": "FILLED", "avg_fill": 232.330002, "qty": -3, "fees": 0.0, "timestamp": "2025-09-05T21:46:32+00:00"}
+{"order_id": "ad4868f8-6413-41dd-add9-3b3481d9dbda", "instrument_id": "ASML", "status": "FILLED", "avg_fill": 781.700012, "qty": 2, "fees": 0.0, "timestamp": "2025-09-05T21:46:32+00:00"}
+{"order_id": "3f0e80f3-a1cc-4a43-a8cf-662f1f1e8f98", "instrument_id": "SAP", "status": "FILLED", "avg_fill": 269.0, "qty": -1, "fees": 0.0, "timestamp": "2025-09-05T21:46:33+00:00"}
+{"order_id": "6e3422ce-8f82-4617-8725-ea712e6dfc62", "instrument_id": "SOL", "status": "FILLED", "avg_fill": 160.0, "qty": -13.217799, "fees": 0.0, "timestamp": "2025-09-05T21:46:33+00:00"}
+{"order_id": "8ef38b02-056e-46cc-9fd9-d58678607229", "instrument_id": "ADA", "status": "FILLED", "avg_fill": 0.42, "qty": -5035.35193, "fees": 0.0, "timestamp": "2025-09-05T21:46:34+00:00"}
+{"order_id": "1253cfac-a5df-4590-9f63-5b730f856e83", "instrument_id": "DOGE", "status": "FILLED", "avg_fill": 0.15, "qty": -14098.985404, "fees": 0.0, "timestamp": "2025-09-05T21:46:34+00:00"}
+{"order_id": "9fd91833-614f-4d2e-9ce6-e985fc193ba1", "instrument_id": "VOO", "status": "FILLED", "avg_fill": 594.960022, "qty": 1, "fees": 0.0, "timestamp": "2025-09-05T22:38:04+00:00"}
+{"order_id": "e18910ad-adbd-4c88-a890-4bbf6f54b944", "instrument_id": "QQQ", "status": "FILLED", "avg_fill": 576.059998, "qty": 2, "fees": 0.0, "timestamp": "2025-09-05T22:38:05+00:00"}
+{"order_id": "a48b57bb-86d8-4190-9ab0-f1926196c93b", "instrument_id": "VGK", "status": "FILLED", "avg_fill": 78.57, "qty": 5, "fees": 0.0, "timestamp": "2025-09-05T22:38:05+00:00"}
+{"order_id": "7b928a46-d824-4d00-829a-b7c04c357157", "instrument_id": "EZU", "status": "FILLED", "avg_fill": 59.650002, "qty": 6, "fees": 0.0, "timestamp": "2025-09-05T22:38:05+00:00"}
+{"order_id": "967aa716-72d6-4ec5-93ef-412d9f6c6c2a", "instrument_id": "AAPL", "status": "FILLED", "avg_fill": 239.690002, "qty": 1, "fees": 0.0, "timestamp": "2025-09-05T22:38:05+00:00"}
+{"order_id": "2066dbe4-443e-4db8-b9be-ad9984419698", "instrument_id": "ASML", "status": "FILLED", "avg_fill": 660.200012, "qty": 3, "fees": 0.0, "timestamp": "2025-09-05T22:38:05+00:00"}
+{"order_id": "7a021b37-48e7-467d-af5c-ea36d1b029cc", "instrument_id": "LVMH", "status": "FILLED", "avg_fill": 496.25, "qty": 1, "fees": 0.0, "timestamp": "2025-09-05T22:38:05+00:00"}
+{"order_id": "022819e0-315f-425a-a9a9-17f2a52253cc", "instrument_id": "SAP", "status": "FILLED", "avg_fill": 228.25, "qty": -3, "fees": 0.0, "timestamp": "2025-09-05T22:38:05+00:00"}
+{"order_id": "6f7634c0-786c-48f2-b9c9-8127b75b0af6", "instrument_id": "SOL", "status": "FILLED", "avg_fill": 160.0, "qty": 2.476026, "fees": 0.0, "timestamp": "2025-09-05T22:38:06+00:00"}
+{"order_id": "9b912dcf-b0f8-4d2b-b705-cb009091f8ef", "instrument_id": "ADA", "status": "FILLED", "avg_fill": 0.42, "qty": 943.24802, "fees": 0.0, "timestamp": "2025-09-05T22:38:06+00:00"}
+{"order_id": "965b361a-f2f1-4792-87ca-b4ef1fdb4395", "instrument_id": "DOGE", "status": "FILLED", "avg_fill": 0.15, "qty": 2641.094456, "fees": 0.0, "timestamp": "2025-09-05T22:38:06+00:00"}
+{"order_id": "2da55505-5077-4752-9569-648ce98336cc", "instrument_id": "SOL", "status": "FILLED", "avg_fill": 204.33, "qty": 0.0, "fees": 0.0, "timestamp": "2025-09-05T23:19:57+00:00"}
+{"order_id": "3f8a4102-dc8a-4c50-8818-6ddfc9fec90a", "instrument_id": "SOL", "status": "FILLED", "avg_fill": 204.33, "qty": 0.0, "fees": 0.0, "timestamp": "2025-09-05T23:31:24+00:00"}
+{"order_id": "7cc23540-7417-4766-8745-a608d90d8ce6", "instrument_id": "SOL", "status": "FILLED", "avg_fill": 203.84, "qty": 0.0, "fees": 0.0, "timestamp": "2025-09-06T00:23:00+00:00"}
+{"order_id": "88b7d416-80d7-41b0-8480-afe995b5a538", "instrument_id": "VGK", "status": "FILLED", "avg_fill": 78.57, "qty": -5, "fees": 0.0, "timestamp": "2025-09-06T00:46:31+00:00"}
+{"order_id": "d169ae9b-ca29-415f-9aae-12cd1b51d3ec", "instrument_id": "EZU", "status": "FILLED", "avg_fill": 59.650002, "qty": -7, "fees": 0.0, "timestamp": "2025-09-06T00:46:32+00:00"}
+{"order_id": "07280c7a-b09b-4d3c-8be0-2fe43825db1e", "instrument_id": "AAPL", "status": "FILLED", "avg_fill": 239.690002, "qty": 3, "fees": 0.0, "timestamp": "2025-09-06T00:46:32+00:00"}
+{"order_id": "8702fedd-ad59-4a60-91aa-8ad165345d43", "instrument_id": "MSFT", "status": "FILLED", "avg_fill": 495.0, "qty": 2, "fees": 0.0, "timestamp": "2025-09-06T00:46:32+00:00"}
+{"order_id": "c80967b0-3bea-4f9a-b63b-942760c48ce0", "instrument_id": "ASML", "status": "FILLED", "avg_fill": 660.200012, "qty": 1, "fees": 0.0, "timestamp": "2025-09-06T00:46:32+00:00"}
+{"order_id": "6afe1fd5-68c6-4a29-a8f9-6759f6653dd4", "instrument_id": "SOL", "status": "FILLED", "avg_fill": 154.094133, "qty": -2.776263, "fees": 0.0, "timestamp": "2025-09-06T00:46:42+00:00"}
+{"order_id": "2fb4ce7e-f969-4076-b658-8e3a511822e5", "instrument_id": "ADA", "status": "FILLED", "avg_fill": 0.40806, "qty": -1048.38958, "fees": 0.0, "timestamp": "2025-09-06T00:46:52+00:00"}
+{"order_id": "a501497a-3089-4544-98d8-000f45b52019", "instrument_id": "DOGE", "status": "FILLED", "avg_fill": 0.102695, "qty": -4165.790467, "fees": 0.0, "timestamp": "2025-09-06T00:47:02+00:00"}

@@ -1,0 +1,1 @@
+{"CG::https://api.coingecko.com/api/v3/simple/price::[('ids', 'bitcoin'), ('vs_currencies', 'usd')]": {"exp": 1757120401.9091294, "val": {"bitcoin": {"usd": 110813}}}, "CG::https://api.coingecko.com/api/v3/simple/price::[('ids', 'bitcoin,ethereum'), ('vs_currencies', 'usd')]": {"exp": 1757156909.8487132, "val": {"bitcoin": {"usd": 110733}, "ethereum": {"usd": 4298.68}}}}

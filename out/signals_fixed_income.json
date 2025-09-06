@@ -1,0 +1,50 @@
+[
+  {
+    "instrument_id": "IEF",
+    "side": "HOLD",
+    "confidence": 0.494,
+    "rationale": "approx_yield=3.70%; DGS10=4.17%; HY_OAS=2.84%; dur~7.5",
+    "ttl_days": 30,
+    "collected_at": "2025-09-06T00:46:27.760278"
+  },
+  {
+    "instrument_id": "TLT",
+    "side": "HOLD",
+    "confidence": 0.0,
+    "rationale": "approx_yield=1.23%; DGS10=4.17%; HY_OAS=2.84%; dur~18.0",
+    "ttl_days": 30,
+    "collected_at": "2025-09-06T00:46:27.867450"
+  },
+  {
+    "instrument_id": "SHY",
+    "side": "HOLD",
+    "confidence": 0.309,
+    "rationale": "approx_yield=4.22%; DGS10=4.17%; HY_OAS=2.84%; dur~2.0",
+    "ttl_days": 30,
+    "collected_at": "2025-09-06T00:46:27.972319"
+  },
+  {
+    "instrument_id": "LQD",
+    "side": "HOLD",
+    "confidence": 0.442,
+    "rationale": "approx_yield=3.89%; DGS10=4.17%; HY_OAS=2.84%; dur~8.5",
+    "ttl_days": 30,
+    "collected_at": "2025-09-06T00:46:28.092581"
+  },
+  {
+    "instrument_id": "IEAC",
+    "side": "BUY",
+    "confidence": 0.563,
+    "rationale": "approx_yield=4.58%; DGS10=4.17%; HY_OAS=2.84%; dur~6.0",
+    "ttl_days": 30,
+    "collected_at": "2025-09-06T00:46:28.219944"
+  },
+  {
+    "instrument_id": "IEGA",
+    "side": "HOLD",
+    "confidence": 0.509,
+    "rationale": "approx_yield=3.60%; DGS10=4.17%; HY_OAS=2.84%; dur~7.0",
+    "ttl_days": 30,
+    "collected_at": "2025-09-06T00:46:28.331421"
+  }
+]

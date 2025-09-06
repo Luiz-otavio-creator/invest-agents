@@ -1,0 +1,42 @@
+[
+  {
+    "instrument_id": "VNQ",
+    "side": "BUY",
+    "confidence": 0.675,
+    "rationale": "DY_TTM=3.75%, ETFBoost=True",
+    "ttl_days": 30,
+    "collected_at": "2025-09-06T00:46:29.437875"
+  },
+  {
+    "instrument_id": "IPRP",
+    "side": "BUY",
+    "confidence": 0.657,
+    "rationale": "DY_TTM=2.81%, ETFBoost=True",
+    "ttl_days": 30,
+    "collected_at": "2025-09-06T00:46:29.653502"
+  },
+  {
+    "instrument_id": "PLD",
+    "side": "BUY",
+    "confidence": 0.62,
+    "rationale": "DY_TTM=3.47%, ETFBoost=False",
+    "ttl_days": 30,
+    "collected_at": "2025-09-06T00:46:29.990962"
+  },
+  {
+    "instrument_id": "O",
+    "side": "BUY",
+    "confidence": 0.649,
+    "rationale": "DY_TTM=5.40%, ETFBoost=False",
+    "ttl_days": 30,
+    "collected_at": "2025-09-06T00:46:30.387938"
+  },
+  {
+    "instrument_id": "SPG",
+    "side": "BUY",
+    "confidence": 0.638,
+    "rationale": "DY_TTM=4.58%, ETFBoost=False",
+    "ttl_days": 30,
+    "collected_at": "2025-09-06T00:46:30.756710"
+  }
+]

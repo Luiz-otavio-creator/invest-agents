@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ExecutionReport",
+  "type": "object",
+  "properties": {
+    "order_id": {
+      "type": "string"
+    },
+    "instrument_id": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "FILLED",
+        "REJECTED",
+        "PARTIAL",
+        "CANCELED"
+      ]
+    },
+    "avg_fill": {
+      "type": "number"
+    },
+    "qty": {
+      "type": "number"
+    },
+    "fees": {
+      "type": "number"
+    }
+  },
+  "required": [
+    "order_id",
+    "instrument_id",
+    "status"
+  ]
+}

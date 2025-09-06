@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Instrument",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "class": {
+      "type": "string",
+      "enum": [
+        "equity",
+        "crypto",
+        "fixed_income",
+        "fii"
+      ]
+    },
+    "currency": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "id",
+    "class",
+    "currency"
+  ]
+}

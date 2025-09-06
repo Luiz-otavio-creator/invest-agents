@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Position",
+  "type": "object",
+  "properties": {
+    "instrument_id": {
+      "type": "string"
+    },
+    "qty": {
+      "type": "number"
+    },
+    "avg_price": {
+      "type": "number"
+    },
+    "market_value": {
+      "type": "number"
+    }
+  },
+  "required": [
+    "instrument_id",
+    "qty",
+    "avg_price",
+    "market_value"
+  ]
+}

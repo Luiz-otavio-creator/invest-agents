@@ -1,0 +1,33 @@
+goals:
+  target_excess_return_vs_bench: 0.03 # +3% a.a. sobre benchmark agregado
+  max_drawdown: 0.20
+  turnover_monthly_max: 0.25
+
+alloc_target:
+  equities: 0.50 # Ações US/EU (ETFs + large caps)
+  fixed_income: 0.35 # Treasuries, Bunds, IG corporates (USD/EUR)
+  reits: 0.10 # REITs US/EU (imobiliário listado)
+  crypto: 0.05 # Opcional (BTC/ETH); ajuste para 0.00 se não quiser
+
+rebalance:
+  periodic: monthly
+  bands: 0.05 # bandas ±5 p.p. por classe
+
+execution:
+  mode: semi_auto
+  approval_threshold_eur: 2000.0
+
+risk_limits:
+  position_max_pct: 0.08
+  asset_stop_loss_pct: 0.15
+
+benchmarks:
+  equities: "MSCI USA + MSCI Europe (ACWI ex-EM opcional)"
+  fixed_income: "Bloomberg US Aggregate + Bloomberg Euro Aggregate"
+  reits: "FTSE EPRA/NAREIT Developed (ou VNQ + IPRP como proxies)"
+  crypto: "BTC (opcional)"
+currency_policy:
+  base: "EUR" # base da sua vida na Irlanda
+  hedge_equities: false
+  hedge_fixed_income: true # opcional: dívida costuma ter hedge
+  hedge_reits: false

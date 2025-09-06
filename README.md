@@ -646,4 +646,5 @@ Testes automatizados mínimos passando.
 
 Se quiser, no próximo passo eu já te mando os arquivos-esqueleto dos módulos (com funções e docstrings) para começar a preencher rapidamente.
 #   i n v e s t - a g e n t s  
+ #   i n v e s t - a g e n t s  
  
